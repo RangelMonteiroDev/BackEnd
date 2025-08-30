@@ -1,0 +1,14 @@
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\bin\Debug\net8.0\GamesSystemBackEnd.Domain.exe
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\bin\Debug\net8.0\GamesSystemBackEnd.Domain.deps.json
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\bin\Debug\net8.0\GamesSystemBackEnd.Domain.runtimeconfig.json
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\bin\Debug\net8.0\GamesSystemBackEnd.Domain.dll
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\bin\Debug\net8.0\GamesSystemBackEnd.Domain.pdb
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.AssemblyInfoInputs.cache
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.AssemblyInfo.cs
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.csproj.CoreCompileInputs.cache
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.dll
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\refint\GamesSystemBackEnd.Domain.dll
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.pdb
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.genruntimeconfig.cache
+C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\ref\GamesSystemBackEnd.Domain.dll
