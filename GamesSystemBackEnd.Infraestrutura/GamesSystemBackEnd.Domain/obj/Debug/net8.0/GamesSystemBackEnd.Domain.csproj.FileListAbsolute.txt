@@ -12,3 +12,4 @@ C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\Ga
 C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.pdb
 C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.genruntimeconfig.cache
 C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\ref\GamesSystemBackEnd.Domain.dll
+c:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Domain\obj\Debug\net8.0\GamesSystemBackEnd.Domain.sourcelink.json

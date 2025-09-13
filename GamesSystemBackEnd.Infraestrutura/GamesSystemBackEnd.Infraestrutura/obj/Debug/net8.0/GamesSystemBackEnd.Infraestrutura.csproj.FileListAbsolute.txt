@@ -155,3 +155,4 @@ C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\Ga
 C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Infraestrutura\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Infraestrutura\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Infraestrutura\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+c:\dotnet\learm\projetos\GameSystem\BackEnd\GamesSystemBackEnd.Infraestrutura\GamesSystemBackEnd.Infraestrutura\obj\Debug\net8.0\GamesSystemBackEnd.Infraestrutura.sourcelink.json
