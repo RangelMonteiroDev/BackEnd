@@ -176,3 +176,4 @@ C:\dotnet\learm\projetos\GameSystem\BackEnd\Testes\Unitarios\UnitTestGameSystem.
 C:\dotnet\learm\projetos\GameSystem\BackEnd\Testes\Unitarios\UnitTestGameSystem.BackEnd\bin\Debug\net8.0\GamesSystemBackEnd.Application.pdb
 C:\dotnet\learm\projetos\GameSystem\BackEnd\Testes\Unitarios\UnitTestGameSystem.BackEnd\bin\Debug\net8.0\GamesSystemBackEnd.Domain.pdb
 C:\dotnet\learm\projetos\GameSystem\BackEnd\Testes\Unitarios\UnitTestGameSystem.BackEnd\bin\Debug\net8.0\GamesSystemBackEnd.Infraestrutura.pdb
+c:\dotnet\learm\projetos\GameSystem\BackEnd\Testes\Unitarios\UnitTestGameSystem.BackEnd\obj\Debug\net8.0\UnitTestGameSystem.BackEnd.sourcelink.json
